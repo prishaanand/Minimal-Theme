@@ -1,5 +1,7 @@
 # Minimal Theme
 
+**Utilized this theme as a template to create my Java Lab Reports website, using github pages.***
+
 [Demo the Theme](http://orderedlist.github.com/minimal/)
 
 This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
